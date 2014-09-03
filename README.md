@@ -10,6 +10,8 @@ These PensionCALC Docs are intended to render within [Apiary](http://apiary.io/)
 
 Changes to the [`apiary.apib`](https://github.com/juliosantos/pension_calc_docs_apiary/blob/master/apiary.apib) file reflect immediately on the [Apiary-hosted documentation](http://docs.pensioncalc.apiary.io/).
 
+Here's [a good example](http://docs.themoviedb.apiary.io/) of what a full set of docs can look like.
+
 ## On Apiary
 
 Apiary is a toolset to collaboratively author and share APIs:
